@@ -1,0 +1,21 @@
+{
+    "Catalog": {
+        "Products": [
+            {
+                "Productid": "101",
+                "Name": "Smartphone",
+                "Category": "Electronics",
+                "Price": "299.99",
+                "Stock": 25
+            },
+            {
+                "Productid": "102",
+                "Name": "Laptop",
+                "Category": "Electronics",
+                "Price": "999.99",
+                "Stock": 75
+            }
+        ]
+    }
+}
+
